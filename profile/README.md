@@ -4,7 +4,7 @@
 
 ### 🚀 What's Inside:
 - 📘 Hands-on tutorials and experiments
-- 🔧 Spring Boot & WebFlux Labs
+- 🔧 Spring Boot & Other Programming Language
 - 🧠 Clean code examples and design patterns
 - 🛠️ Open-source mini projects
 
